@@ -11,6 +11,8 @@ namespace ConsoleApp1
             Console.WriteLine("how are you");
             Console.WriteLine("what do you do");
             Console.WriteLine("i am fine");
+            Console.WriteLine("it is good"):
+         
 
         }
     }
